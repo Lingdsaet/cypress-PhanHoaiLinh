@@ -1,7 +1,5 @@
 # cypress-PhanHoaiLinh
-Dưới đây là nội dung mẫu file `README.md` cho bài kiểm thử **giỏ hàng và thanh toán** bằng **Cypress** tại trang [https://www.saucedemo.com](https://www.saucedemo.com):
 
----
 
 ```markdown
 #  E2E Testing - SauceDemo Cart & Checkout (Cypress)
