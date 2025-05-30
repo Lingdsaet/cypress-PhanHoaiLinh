@@ -21,6 +21,7 @@ Dự án này sử dụng **Cypress** để kiểm thử End-to-End (E2E) các c
 
 /cypress
 └── /e2e
+
 └── cart\_spec.cy.js   # Chứa các kịch bản kiểm thử chính
 
 ````
