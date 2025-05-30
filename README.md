@@ -68,8 +68,6 @@ Chọn E2E Testing → Chọn trình duyệt → Chạy file `cart_spec.cy.js`
 ##  Công nghệ sử dụng
 
 * [Cypress](https://www.cypress.io/)
-* JavaScript
-
 ---
 
 ##  Ghi chú
